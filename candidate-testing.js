@@ -51,7 +51,7 @@ function gradeQuiz(candidateAnswers) {
 
   if(numbCorrect>=4){
     Status="PASSED"
-  } else {Status= "FAILED"}
+  } else {Status= "FAILED"} 
 
 // TODO 1.2c: Let the candidate know if they have answered the question correctly or incorrectly // 
   // if (candidateAnswer === correctAnswer){
